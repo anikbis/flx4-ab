@@ -3,6 +3,8 @@
 A browser DJ app for the Pioneer DJ **DDJ-FLX4** controller, with an offline AI auto-mixer.
 Everything runs in one HTML file in Chrome or Edge. No install, no server, no account.
 
+**▶ Try it live: [anikbis.github.io/flx4-ab](https://anikbis.github.io/flx4-ab/)** (Chrome or Edge, plug in your FLX4 and press Connect)
+
 ![FLX4 AB screenshot](docs/screenshot.png)
 
 > **Status: experimental.** Built for learning to mix at home. Every feature has been tested with simulated
@@ -11,7 +13,7 @@ Everything runs in one HTML file in Chrome or Edge. No install, no server, no ac
 
 ## Try it
 
-1. Download [`index.html`](index.html) and open it in **Chrome or Edge** (Safari and Firefox can't talk to MIDI controllers).
+1. Open the [live version](https://anikbis.github.io/flx4-ab/), or download [`index.html`](index.html) and open it, in **Chrome or Edge** (Safari and Firefox can't talk to MIDI controllers).
 2. Quit rekordbox or Serato, then plug in the FLX4.
 3. Click **Connect** and allow MIDI access.
 4. Click **Choose folder** and pick a folder of music. Your files never leave your computer.
